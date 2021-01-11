@@ -2,7 +2,7 @@
 
 ## I'm Aaron Cygnarowicz [![Linkedin](https://img.shields.io/badge/-Aaron%20Cygnarowicz-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-cygnarowicz-13806450/)](https://www.linkedin.com/in/aaron-cygnarowicz-13806450/)
 
-### 📫 How to reach me: ... [![Mail](https://img.shields.io/badge/-acygnarowicz@yahoo.com-teal-square&logo=yahoo!&logoColor=red&link=)](mailto:acygnarowicz@yahoo.com)
+### 📫 How to reach me: ... [![Mail](https://img.shields.io/badge/-acygnarowicz@yahoo.com-gray?style=flat-square&logo=yahoo!&logoColor=red&link=)](mailto:acygnarowicz@yahoo.com)
 
 ## I enjoy working with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
